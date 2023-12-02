@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desafio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-curso-2-aula_-"
+	}
+}
